@@ -1,0 +1,5 @@
+#!/bin/bash
+echo os is $(uname -o)
+echo version is $(uname --version)
+echo /n release date is $(uname -r)
+echo $lscpu
